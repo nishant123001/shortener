@@ -8,7 +8,7 @@ A user should be able to visit the shortened link and be brought to the original
 
 ## Guidelines
 
-Reviewing a code test can be subjective, so in the interest of transparency you'll get brownie points for:
+Reviewing a code test can be subjective, so in the interest of transparency you'll get additional points for:
 
 * Demonstration of understanding of [HTTP][http]
 * Use of established [Python idioms][python-idioms]
